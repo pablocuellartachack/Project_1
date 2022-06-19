@@ -1,2 +1,2 @@
 # Project_1
-Comparing Fashion Brands Value Between Genders 
+Brands Shoe Value Contrast Between Genders
